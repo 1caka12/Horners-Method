@@ -69,7 +69,7 @@ namespace HornerMethodConsole
                 MultipleCoefficients(newElements);
             }
             
-            Console.WriteLine();
+            Console.ReadKey();
             
         }
     }
